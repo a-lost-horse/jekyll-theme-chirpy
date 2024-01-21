@@ -2,7 +2,7 @@
 title: Text and Typography
 author: cotes
 date: 2024-01-18 01:48:00 +0800
-categories: [Blogging, Grammar]
+categories: [Blogging, Tutorial]
 tags: [typography]
 pin: false
 math: true
